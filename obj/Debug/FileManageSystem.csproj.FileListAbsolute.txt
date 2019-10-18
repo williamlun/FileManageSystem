@@ -1,0 +1,40 @@
+C:\Users\william\documents\visual studio 2017\Projects\FileManageSystem\FileManageSystem\bin\Debug\FileManageSystem.exe.config
+C:\Users\william\documents\visual studio 2017\Projects\FileManageSystem\FileManageSystem\bin\Debug\FileManageSystem.exe
+C:\Users\william\documents\visual studio 2017\Projects\FileManageSystem\FileManageSystem\bin\Debug\FileManageSystem.pdb
+C:\Users\william\documents\visual studio 2017\Projects\FileManageSystem\FileManageSystem\obj\Debug\FileManageSystem.csprojAssemblyReference.cache
+C:\Users\william\documents\visual studio 2017\Projects\FileManageSystem\FileManageSystem\obj\Debug\FileManageSystem.Form1.resources
+C:\Users\william\documents\visual studio 2017\Projects\FileManageSystem\FileManageSystem\obj\Debug\FileManageSystem.Properties.Resources.resources
+C:\Users\william\documents\visual studio 2017\Projects\FileManageSystem\FileManageSystem\obj\Debug\FileManageSystem.csproj.GenerateResource.cache
+C:\Users\william\documents\visual studio 2017\Projects\FileManageSystem\FileManageSystem\obj\Debug\FileManageSystem.csproj.CoreCompileInputs.cache
+C:\Users\william\documents\visual studio 2017\Projects\FileManageSystem\FileManageSystem\obj\Debug\FileManageSystem.exe
+C:\Users\william\documents\visual studio 2017\Projects\FileManageSystem\FileManageSystem\obj\Debug\FileManageSystem.pdb
+C:\Users\william\documents\visual studio 2017\Projects\FileManageSystem\FileManageSystem\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\william\documents\visual studio 2017\Projects\FileManageSystem\FileManageSystem\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\william\documents\visual studio 2017\Projects\FileManageSystem\FileManageSystem\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\william\documents\visual studio 2017\Projects\FileManageSystem\FileManageSystem\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\william\documents\visual studio 2017\Projects\FileManageSystem\FileManageSystem\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\william\documents\visual studio 2017\Projects\FileManageSystem\FileManageSystem\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+C:\Users\william\documents\visual studio 2017\Projects\FileManageSystem\FileManageSystem\obj\Debug\FileManageSystem.csproj.CopyComplete
+C:\Users\william\documents\visual studio 2017\Projects\FileManageSystem\FileManageSystem\obj\Debug\FileManageSystem.Lib.resources
+C:\Users\william\source\repos\FileManageSystem\FileManageSystem\bin\Debug\FileManageSystem.exe.config
+C:\Users\william\source\repos\FileManageSystem\FileManageSystem\bin\Debug\FileManageSystem.exe
+C:\Users\william\source\repos\FileManageSystem\FileManageSystem\bin\Debug\FileManageSystem.pdb
+C:\Users\william\source\repos\FileManageSystem\FileManageSystem\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\william\source\repos\FileManageSystem\FileManageSystem\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\william\source\repos\FileManageSystem\FileManageSystem\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\william\source\repos\FileManageSystem\FileManageSystem\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\william\source\repos\FileManageSystem\FileManageSystem\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\william\source\repos\FileManageSystem\FileManageSystem\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+C:\Users\william\source\repos\FileManageSystem\FileManageSystem\obj\Debug\FileManageSystem.csprojAssemblyReference.cache
+C:\Users\william\source\repos\FileManageSystem\FileManageSystem\obj\Debug\FileManageSystem.Form1.resources
+C:\Users\william\source\repos\FileManageSystem\FileManageSystem\obj\Debug\FileManageSystem.Lib.resources
+C:\Users\william\source\repos\FileManageSystem\FileManageSystem\obj\Debug\FileManageSystem.Properties.Resources.resources
+C:\Users\william\source\repos\FileManageSystem\FileManageSystem\obj\Debug\FileManageSystem.csproj.GenerateResource.cache
+C:\Users\william\source\repos\FileManageSystem\FileManageSystem\obj\Debug\FileManageSystem.csproj.CoreCompileInputs.cache
+C:\Users\william\source\repos\FileManageSystem\FileManageSystem\obj\Debug\FileManageSystem.csproj.CopyComplete
+C:\Users\william\source\repos\FileManageSystem\FileManageSystem\obj\Debug\FileManageSystem.exe
+C:\Users\william\source\repos\FileManageSystem\FileManageSystem\obj\Debug\FileManageSystem.pdb
+C:\Users\william\source\repos\FileManageSystem\FileManageSystem\obj\Debug\FileManageSystem.RegToDes.resources
+C:\Users\william\source\repos\FileManageSystem\FileManageSystem\obj\Debug\FileManageSystem.freeCom.resources
+C:\Users\william\source\repos\FileManageSystem\FileManageSystem\obj\Debug\FileManageSystem.Addsetting.resources
+C:\Users\william\source\repos\FileManageSystem\FileManageSystem\obj\Debug\FileManageSystem.Addreg.resources
